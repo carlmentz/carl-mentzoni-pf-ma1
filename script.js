@@ -26,3 +26,6 @@ else {
 }
 
 // question 8
+for (var nr = 0; nr < 10; nr ++) {
+  console.log(nr); 
+}
