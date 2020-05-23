@@ -11,11 +11,18 @@ var integer = 1;
 var division = 20 / 5;
 
 // question 5
-var frog = "amphibian";
-frog
+typeof ("frog");
 
 // question 6
+var orderHasShipped = true;
 
 // question 7
+if (orderHasShipped === true) {
+  console.log("true");
+}
+
+else {
+  console.log("false");
+}
 
 // question 8
